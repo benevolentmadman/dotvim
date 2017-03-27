@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/alex/Documents/git_repos/pangea/apps/job/app/models/concerns'
+let g:netrw_dirhist_2='/Users/alex/Documents/git_repos/pangea'
